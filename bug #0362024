@@ -1,0 +1,32 @@
+Priority: Normal
+Severity: Minor
+Reproducibility: Always
+Platform: Google Chrome 63.0.3239.132
+OS: Windows
+OS Version: 7 x86
+
+Summary: The mouse cursor is hidden in the product card after hovering the mouse over on the social network icons
+
+Description: The mouse cursor is hidden in the product card after hovering the mouse over on the social network icons
+
+Steps To Reproduce:
+
+1. Go to the site http://prestashop*******
+2. Open the any product card page
+3. Hover the mouse over on the social network icons
+4. Pay attention to the icon area
+
+Actual result: The mouse cursor is hidden in the product card after hovering the mouse over on the social network icons
+
+Expected result: The mouse cursor is not hidden in the product card after hovering the mouse over the on social network
+
+Additional Information:
+
+Environment:
+Mozilla Firefox 52.4.0
+IE 11.0
+Chrome 63.0.3239.132
+
+Attached Files:
+
+bug0362024.jpg
