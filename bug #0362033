@@ -1,0 +1,36 @@
+Priority: Normal
+Severity: Minor
+Reproducibility: Always
+Platform: Google Chrome 63.0.3239.132
+OS: Windows
+OS Version: 7 x86
+
+Summary: The borders of the text box are extended beyond the border of the "Contact us" page
+after changing the size of the text box
+
+Description: The borders of the text box are extended beyond the border of the "Contact us" page
+after changing the size of the text box
+
+Steps To Reproduce:
+
+1. Go to the site http://prestashop*******
+2. Open the page "Contact us" on the top right corner
+3. Pull the corner of the text input window to the right and down
+4. Pay attention to the borders of the text box
+
+Actual result: The borders of the text box are extended beyond the border of the "Contact us" page
+after changing the size of the text box
+
+Expected result: The borders of the text box are not extended beyond the border of the "Contact us" page
+after changing the size of the text box
+
+Additional Information:
+
+Environment:
+Mozilla Firefox 52.4.0
+IE 11.0
+Chrome 63.0.3239.132
+
+Attached Files:
+
+bug0362033.jpg
