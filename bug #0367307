@@ -1,0 +1,31 @@
+Priority: Normal
+Severity: Minor
+Reproducibility: Always
+Platform: Google Chrome 63.0.3239.132
+OS: Windows
+OS Version: 7 x86
+
+Summary: The element name is not located opposite the checkbox in the "Manufacturer" block on the "Dresses" page
+
+Description: The element name is not located opposite the checkbox in the "Manufacturer" block on the "Dresses" page
+
+Steps To Reproduce:
+
+1. Go to the site http://prestashop*******
+2. Open the "Dresses" page
+3. Pay attention to the "Manufacturer" block
+
+Actual result: The element name is not located opposite the checkbox in the "Manufacturer" block on the "Dresses" page
+
+Expected result: The element name is located opposite the checkbox in the "Manufacturer" block on the "Dresses" page
+
+Additional Information:
+
+Environment:
+Mozilla Firefox 52.4.0
+IE 11.0
+Chrome 63.0.3239.132
+
+Attached Files:
+
+bug0367307.jpg
