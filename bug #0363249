@@ -1,0 +1,32 @@
+Priority: Normal
+Severity: Minor
+Reproducibility: Always
+Platform: Google Chrome 63.0.3239.132
+OS: Windows
+OS Version: 7 x86
+
+Summary: All required fields are not marked in the "Send a message" form after sending the empty form
+
+Description: All required fields are not marked in the "Send a message" form after sending the empty form
+
+Steps To Reproduce:
+
+1. Go to the site http://prestashop*******
+2. Open the "Contact us" page
+3. Send the empty form
+4. Take a look at the fields for filling
+
+Actual result: All required fields are not marked in the form "Send a message" on page "Contact us" after sending the empty form
+
+Expected result: All required fields are marked in the form "Send a message" on page "Contact us" after sending the empty form
+
+Additional Information:
+
+Environment:
+Mozilla Firefox 52.4.0
+IE 11.0
+Chrome 63.0.3239.132
+
+Attached Files:
+
+bug0363249.jpg
