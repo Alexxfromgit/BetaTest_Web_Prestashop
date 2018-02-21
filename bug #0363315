@@ -1,0 +1,33 @@
+Priority: Normal
+Severity: Major
+Reproducibility: Always
+Platform: Google Chrome 63.0.3239.132
+OS: Windows
+OS Version: 7 x86
+
+Summary: The email is not delivered to the recipient on the product card page after sending it with "Send to a friend" link
+
+Description: The email is not delivered to the recipient on the product card page after sending it with "Send to a friend" link
+
+Steps To Reproduce:
+
+1. Go to the site http://prestashop*******
+2. Open the any product card page
+3. Click on the "Send to a friend" link
+4. Send form with valid data
+5. Pay attention to the presence of the email in the inbox
+
+Actual result: The email is not delivered to the recipient on the product card page after sending it with "Send to a friend" link
+
+Expected result: The email is delivered to the recipient on the product card page after sending it with "Send to a friend" link
+
+Additional Information:
+
+Environment:
+Mozilla Firefox 52.4.0
+IE 11.0
+Chrome 63.0.3239.132
+
+Attached Files:
+
+bug0363315.jpg
