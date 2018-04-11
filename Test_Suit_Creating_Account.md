@@ -1,4 +1,4 @@
-##Test case: 61079
+## Test case: 61079
 
 **Summary:**
 Checking the new account creating on the site with valid data
@@ -29,7 +29,7 @@ Checking the new account creating on the site with valid data
 
 ------------------------------------------------------------------------
 
-##Test case: 61081
+## Test case: 61081
 
 **Summary:**
 Checking the new account creating on the site with invalid data
